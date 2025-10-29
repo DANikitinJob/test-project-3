@@ -1,0 +1,13 @@
+{
+    "name": "easytest/reverse-words",
+    "description": "Unit tests for reverseWords function",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "files": ["test.php"]
+    }
+}
